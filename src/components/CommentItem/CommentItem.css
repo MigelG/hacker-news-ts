@@ -1,0 +1,16 @@
+.comment {
+    overflow-wrap: break-word;
+    margin-bottom: 5px;
+}
+
+.comment__author {
+    margin: 0;
+    margin-bottom: 5px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.comment__text {
+    margin: 0;
+    border-bottom: 2px solid var(--main-color);
+}

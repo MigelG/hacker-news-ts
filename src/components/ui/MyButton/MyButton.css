@@ -1,0 +1,11 @@
+.button {
+    width: 15%;
+    min-width: 100px;
+    height: 40px;
+    background-color: var(--main-color);
+}
+
+.button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 5px black;
+}
